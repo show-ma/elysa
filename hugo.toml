@@ -1,5 +1,6 @@
 ## Base URL for the site
-baseURL = 'https://foxihd.github.io/hugo-brewm/'
+baseURL = 'https://xyzxy.me/elysa'
+publishDir = "docs"
 ## Site title
 title = "Elysa's Blog"
 ## Use hugo-brewm theme

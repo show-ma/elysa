@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>施工中 on Elysa&#39;s Blog</title>
+    <link>http://localhost:1313/elysa/stage/budding/</link>
+    <description>Recent Posts in 施工中 on Elysa&#39;s Blog</description>
+    <generator>Hugo 0.147.2</generator>
+    <language>en</language>
+    <managingEditor>Elysa</managingEditor>
+    
+      <webMaster>Elysa</webMaster>
+    <lastBuildDate>Mon, 11 Aug 2025 14:54:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/elysa/stage/budding/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
