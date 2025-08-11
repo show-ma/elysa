@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evergreen on Elysa&#39;s Blog</title>
+    <link>http://localhost:1313/hugo-brewm/en/stage/evergreen/</link>
+    <description>Recent Posts in evergreen on Elysa&#39;s Blog</description>
+    <generator>Hugo 0.147.2</generator>
+    <language>en</language>
+    <managingEditor>Elysa</managingEditor>
+    
+      <webMaster>Elysa</webMaster>
+    <lastBuildDate>Mon, 11 Aug 2025 12:28:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-brewm/en/stage/evergreen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authoring Stage Taxonomy for Digital Garden</title>
+      <link>http://localhost:1313/hugo-brewm/en/post/authoring-custom-taxonomy/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <author>Elysa</author>
+      <guid>http://localhost:1313/hugo-brewm/en/post/authoring-custom-taxonomy/</guid>
+      <description></description>
+      
+    </item>
+    <item>
+      <title>Authoring The Redaction History</title>
+      <link>http://localhost:1313/hugo-brewm/en/post/authoring-redaction-history/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <author>Elysa</author>
+      <guid>http://localhost:1313/hugo-brewm/en/post/authoring-redaction-history/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+theme = "hugo-brewm"
+[taxonomies]
+    stage = "stage"

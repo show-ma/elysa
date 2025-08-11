@@ -1,0 +1,81 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/post/0618/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/author/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/tags/bird/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/categories/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/author/elysa/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/categories/nature/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/tags/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/stage/seedling/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/post/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/stage/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/tags/%E5%A4%B4%E5%83%8F/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/post/0811/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/categories/%E7%9B%B8%E5%86%8C/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/author/author-name/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/series/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/stage/evergreen/</loc>
+    
+    </url>
+  <url>
+    <loc>http://localhost:1313/hugo-brewm/stage/budding/</loc>
+    
+    </url>
+</urlset>

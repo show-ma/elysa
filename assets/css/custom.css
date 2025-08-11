@@ -1,0 +1,28 @@
+:root {
+    /* default contrast */
+    --ac-light: rgb(51, 191, 204);      /* accent color on default contrast */
+    --fg-light: #1a1a1a;      /* foreground color on default contrast */
+    --bg-light: #f9f9fb; /* background color on default contrast */
+    --midtone: gray;       /* midtone on default contrast */
+    --fg-dark: #f9f9fb;  /* foreground color on dark mode, default contrast */
+    --bg-dark: #373f40;       /* background color on dark mode, default contrast */
+    --ac-dark: rgb(131, 241, 224);       /* accent color on dark mode, default contrast */
+
+    /* less contrast */
+    --ac-light-less: var(--ac-light);
+    --fg-light-less: #13253d;
+    --bg-light-less: #e7e2e2;
+    --midtone-less: #7d8490;
+    --fg-dark-less: #e7e2e2;
+    --bg-dark-less: #13253d;
+    --ac-dark-less: var(--ac-dark);
+
+    /* more contrast */
+    --ac-light-more: var(--ac-light);
+    --fg-light-more: #000;
+    --bg-light-more: #fff;
+    --midtone-more: gray;
+    --fg-dark-more: #fff;
+    --bg-dark-more: #000;
+    --ac-dark-more: var(--ac-dark);
+}
