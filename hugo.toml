@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://elysa.xyzxy.me'
+baseURL = 'https://elysa.xyzxy.me/'
 publishDir = "docs"
 ## Site title
 title = "Elysa's Blog"
