@@ -3,42 +3,42 @@
     "nodes": [{
                 "id": "e3465ff5f4f5f254484ddd4f9501fd7f",
                 "title": "250618｜观鸟记录",
-                "permalink": "https://elysa.xyzxy.me/post/0618/",
+                "permalink": "http://localhost:1313/post/0618/",
                 "type": "post"
             },{
                 "id": "dad372fc3eb1597932263c75330a28ee",
                 "title": "我的新照片",
-                "permalink": "https://elysa.xyzxy.me/post/0811/",
+                "permalink": "http://localhost:1313/post/0811/",
                 "type": "post"
             },
                         {
                             "id": "categories-nature",
                             "title": "Nature",
-                            "permalink": "https://elysa.xyzxy.me/categories/nature/",
+                            "permalink": "http://localhost:1313/categories/nature/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-相册",
                             "title": "相册",
-                            "permalink": "https://elysa.xyzxy.me/categories/%E7%9B%B8%E5%86%8C/",
+                            "permalink": "http://localhost:1313/categories/%E7%9B%B8%E5%86%8C/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-bird",
                             "title": "Bird",
-                            "permalink": "https://elysa.xyzxy.me/tags/bird/",
+                            "permalink": "http://localhost:1313/tags/bird/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-头像",
                             "title": "头像",
-                            "permalink": "https://elysa.xyzxy.me/tags/%E5%A4%B4%E5%83%8F/",
+                            "permalink": "http://localhost:1313/tags/%E5%A4%B4%E5%83%8F/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-日常",
                             "title": "日常",
-                            "permalink": "https://elysa.xyzxy.me/tags/%E6%97%A5%E5%B8%B8/",
+                            "permalink": "http://localhost:1313/tags/%E6%97%A5%E5%B8%B8/",
                             "type": "tags"
                         },
     ],
