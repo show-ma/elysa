@@ -9,17 +9,8 @@
     <managingEditor>Elysa</managingEditor>
     
       <webMaster>Elysa</webMaster>
-    <lastBuildDate>Mon, 11 Aug 2025 19:19:23 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 19:00:55 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/stage/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>施工中</title>
-      <link>http://localhost:1313/stage/budding/</link>
-      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <author>Elysa</author>
-      <guid>http://localhost:1313/stage/budding/</guid>
-      <description>&lt;h2 id=&#34;分类系统说明&#34;&gt;分类系统说明&lt;/h2&gt;&#xA;&lt;p&gt;思维的结构，并非静止。它的形态，更接近于植物。&lt;/p&gt;&#xA;&lt;p&gt;它从一个无法被辨识的胚胎开始，汲取信息，缓慢抽芽，最终形成相对稳定的结构。这个地方记录的，就是这些有机体的演化过程。&lt;/p&gt;&#xA;&lt;p&gt;为了精确标记此处的每一个样本所处的生命周期，我建立了以下分类系统。文章标题旁的标记，即是其当前所处的生态位。&lt;/p&gt;</description>
-      
-    </item>
     <item>
       <title>挖坑中</title>
       <link>http://localhost:1313/stage/seedling/</link>
@@ -35,6 +26,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Elysa</author>
       <guid>http://localhost:1313/stage/evergreen/</guid>
+      <description>&lt;h2 id=&#34;分类系统说明&#34;&gt;分类系统说明&lt;/h2&gt;&#xA;&lt;p&gt;思维的结构，并非静止。它的形态，更接近于植物。&lt;/p&gt;&#xA;&lt;p&gt;它从一个无法被辨识的胚胎开始，汲取信息，缓慢抽芽，最终形成相对稳定的结构。这个地方记录的，就是这些有机体的演化过程。&lt;/p&gt;&#xA;&lt;p&gt;为了精确标记此处的每一个样本所处的生命周期，我建立了以下分类系统。文章标题旁的标记，即是其当前所处的生态位。&lt;/p&gt;</description>
+      
+    </item>
+    <item>
+      <title>施工中</title>
+      <link>http://localhost:1313/stage/budding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>Elysa</author>
+      <guid>http://localhost:1313/stage/budding/</guid>
       <description>&lt;h2 id=&#34;分类系统说明&#34;&gt;分类系统说明&lt;/h2&gt;&#xA;&lt;p&gt;思维的结构，并非静止。它的形态，更接近于植物。&lt;/p&gt;&#xA;&lt;p&gt;它从一个无法被辨识的胚胎开始，汲取信息，缓慢抽芽，最终形成相对稳定的结构。这个地方记录的，就是这些有机体的演化过程。&lt;/p&gt;&#xA;&lt;p&gt;为了精确标记此处的每一个样本所处的生命周期，我建立了以下分类系统。文章标题旁的标记，即是其当前所处的生态位。&lt;/p&gt;</description>
       
     </item>
