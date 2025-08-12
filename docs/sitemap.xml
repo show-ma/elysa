@@ -3,47 +3,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/post/0618/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
-    </url>
+    <loc>http://localhost:1313/post/0702/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/post/0618/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/post/0702/" />
+  </url>
   <url>
     <loc>http://localhost:1313/author/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/tags/bird/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/author/elysa/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/categories/nature/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
-    </url>
-  <url>
-    <loc>http://localhost:1313/stage/seedling/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     </url>
   <url>
     <loc>http://localhost:1313/stage/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/stage/budding/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    </url>
+  <url>
+    <loc>http://localhost:1313/post/0618/</loc>
+    <lastmod>2025-06-21T00:00:00+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/post/0702/" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:1313/post/0618/" />
+  </url>
+  <url>
+    <loc>http://localhost:1313/stage/seedling/</loc>
     <lastmod>2025-06-21T00:00:00+00:00</lastmod>
     </url>
   <url>
@@ -72,10 +84,6 @@
     </url>
   <url>
     <loc>http://localhost:1313/stage/evergreen/</loc>
-    
-    </url>
-  <url>
-    <loc>http://localhost:1313/stage/budding/</loc>
     
     </url>
 </urlset>
