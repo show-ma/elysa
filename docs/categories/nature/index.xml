@@ -9,7 +9,7 @@
     <managingEditor>Elysa</managingEditor>
     
       <webMaster>Elysa</webMaster>
-    <lastBuildDate>Wed, 13 Aug 2025 01:00:44 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 01:24:08 -0500</lastBuildDate>
     <atom:link href="https://elysa.xyzxy.me/categories/nature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>250702｜观鸟记录</title>
@@ -18,7 +18,7 @@
       <author>Elysa</author>
       <guid>https://elysa.xyzxy.me/post/0702/</guid>
       <description></description>
-      
+      <enclosure url="https://s2.loli.net/2025/08/12/awtkmilYdAVKjre.png" length="0" type="image/jpeg" />
     </item>
     <item>
       <title>250618｜观鸟记录</title>
@@ -27,7 +27,7 @@
       <author>Elysa</author>
       <guid>https://elysa.xyzxy.me/post/0618/</guid>
       <description></description>
-      
+      <enclosure url="post/0618/cardinals.jpg" length="0" type="image/jpeg" />
     </item>
   </channel>
 </rss>

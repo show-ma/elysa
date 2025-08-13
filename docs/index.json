@@ -21,7 +21,7 @@
                 "permalink": "https://elysa.xyzxy.me/post/0702/",
                 "type": "post"
             },{
-                "id": "e3465ff5f4f5f254484ddd4f9501fd7f",
+                "id": "9725f6319589b44aa19b61ffe29d4560",
                 "title": "250618｜观鸟记录",
                 "permalink": "https://elysa.xyzxy.me/post/0618/",
                 "type": "post"
@@ -93,6 +93,10 @@
                     },
                     {
                         "source": "c3b6f1053f7cc4a198db6cd5931655f0",
+                        "target": "tags-头像",
+                    },
+                    {
+                        "source": "c3b6f1053f7cc4a198db6cd5931655f0",
                         "target": "tags-日常",
                     },
             
@@ -106,11 +110,11 @@
                     },
             
                     {
-                        "source": "e3465ff5f4f5f254484ddd4f9501fd7f",
+                        "source": "9725f6319589b44aa19b61ffe29d4560",
                         "target": "categories-nature",
                     },
                     {
-                        "source": "e3465ff5f4f5f254484ddd4f9501fd7f",
+                        "source": "9725f6319589b44aa19b61ffe29d4560",
                         "target": "tags-bird",
                     },
     ],

@@ -1,7 +1,7 @@
 ---
 type: 'slide'
 title: '简介'
-cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/28.svg'
+cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/26.svg'
 weight: 1
 params:
     headless: true

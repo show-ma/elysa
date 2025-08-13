@@ -11,6 +11,7 @@ coffee: 1
 tags: ['bird']
 categories: ['Nature']
 stage: "seedling"
+cover: "post/0618/cardinals.jpg"
 ---
 
 物种: 北美红雀 (Northern Cardinal / Cardinalis cardinalis)
