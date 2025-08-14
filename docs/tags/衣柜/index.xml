@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>相册 on Elysa&#39;s Blog</title>
-    <link>https://elysa.xyzxy.me/categories/%E7%9B%B8%E5%86%8C/</link>
-    <description>Recent Posts in 相册 on Elysa&#39;s Blog</description>
+    <title>衣柜 on Elysa&#39;s Blog</title>
+    <link>https://elysa.xyzxy.me/tags/%E8%A1%A3%E6%9F%9C/</link>
+    <description>Recent Posts in 衣柜 on Elysa&#39;s Blog</description>
     <generator>Hugo 0.147.2</generator>
     <language>en</language>
     <managingEditor>Elysa</managingEditor>
     
       <webMaster>Elysa</webMaster>
     <lastBuildDate>Wed, 13 Aug 2025 17:14:48 -0500</lastBuildDate>
-    <atom:link href="https://elysa.xyzxy.me/categories/%E7%9B%B8%E5%86%8C/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>我的新照片</title>
-      <link>https://elysa.xyzxy.me/post/0804/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <author>Elysa</author>
-      <guid>https://elysa.xyzxy.me/post/0804/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="https://elysa.xyzxy.me/tags/%E8%A1%A3%E6%9F%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>套装：天穹勘察家</title>
       <link>https://elysa.xyzxy.me/post/0728/</link>

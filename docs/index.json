@@ -11,6 +11,11 @@
                 "permalink": "https://elysa.xyzxy.me/post/0812/",
                 "type": "post"
             },{
+                "id": "03d45b7f66946aa1a779ed76be1b77da",
+                "title": "套装：天穹勘察家",
+                "permalink": "https://elysa.xyzxy.me/post/0728/",
+                "type": "post"
+            },{
                 "id": "c3b6f1053f7cc4a198db6cd5931655f0",
                 "title": "思考",
                 "permalink": "https://elysa.xyzxy.me/post/0717/",
@@ -62,6 +67,12 @@
                             "permalink": "https://elysa.xyzxy.me/tags/%E6%97%A5%E5%B8%B8/",
                             "type": "tags"
                         },
+                        {
+                            "id": "tags-衣柜",
+                            "title": "衣柜",
+                            "permalink": "https://elysa.xyzxy.me/tags/%E8%A1%A3%E6%9F%9C/",
+                            "type": "tags"
+                        },
     ],
     "links": [
             
@@ -85,6 +96,15 @@
                     {
                         "source": "4c09e0a3507ebaeac0b1b4df7db48969",
                         "target": "tags-日常",
+                    },
+            
+                    {
+                        "source": "03d45b7f66946aa1a779ed76be1b77da",
+                        "target": "categories-相册",
+                    },
+                    {
+                        "source": "03d45b7f66946aa1a779ed76be1b77da",
+                        "target": "tags-衣柜",
                     },
             
                     {

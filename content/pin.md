@@ -18,5 +18,4 @@ params:
 {{< pin img="https://s2.loli.net/2025/08/13/Yba2RuWILvDtnEf.jpg" label="最喜欢的森林">}}
 {{< pin img="https://s2.loli.net/2025/08/13/vXkFdM1LapZscDb.jpg" label="">}}
 {{< pin img="https://s2.loli.net/2025/08/13/jl5KiVOyPBJaRrb.jpg" label="">}}
-{{< pin img="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/6.svg" label="Item 6">}}
 {{< pin "end" >}}
