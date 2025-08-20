@@ -1,14 +1,24 @@
 
 {
     "nodes": [{
-                "id": "3342f14e3e9b1232cc68b1fa2a7d7c0c",
-                "title": "我的新照片",
-                "permalink": "https://elysa.xyzxy.me/post/0804/",
+                "id": "85d75d532b870566e71924e3b2aa1d1d",
+                "title": "250820｜观鸟手帐：蓝松鸦",
+                "permalink": "https://elysa.xyzxy.me/post/0817/",
                 "type": "post"
             },{
                 "id": "4c09e0a3507ebaeac0b1b4df7db48969",
                 "title": "用声音绘画",
                 "permalink": "https://elysa.xyzxy.me/post/0812/",
+                "type": "post"
+            },{
+                "id": "45f984ce42f7aa08d4470fedf49f1953",
+                "title": "午后阅读",
+                "permalink": "https://elysa.xyzxy.me/post/0809/",
+                "type": "post"
+            },{
+                "id": "3342f14e3e9b1232cc68b1fa2a7d7c0c",
+                "title": "我的新照片",
+                "permalink": "https://elysa.xyzxy.me/post/0804/",
                 "type": "post"
             },{
                 "id": "03d45b7f66946aa1a779ed76be1b77da",
@@ -35,6 +45,12 @@
                             "id": "categories-nature",
                             "title": "Nature",
                             "permalink": "https://elysa.xyzxy.me/categories/nature/",
+                            "type": "categories"
+                        },
+                        {
+                            "id": "categories-手帐",
+                            "title": "手帐",
+                            "permalink": "https://elysa.xyzxy.me/categories/%E6%89%8B%E5%B8%90/",
                             "type": "categories"
                         },
                         {
@@ -77,6 +93,45 @@
     "links": [
             
                     {
+                        "source": "85d75d532b870566e71924e3b2aa1d1d",
+                        "target": "categories-相册",
+                    },
+                    {
+                        "source": "85d75d532b870566e71924e3b2aa1d1d",
+                        "target": "categories-手帐",
+                    },
+                    {
+                        "source": "85d75d532b870566e71924e3b2aa1d1d",
+                        "target": "tags-日常",
+                    },
+                    {
+                        "source": "85d75d532b870566e71924e3b2aa1d1d",
+                        "target": "tags-bird",
+                    },
+            
+                    {
+                        "source": "4c09e0a3507ebaeac0b1b4df7db48969",
+                        "target": "categories-碎碎念",
+                    },
+                    {
+                        "source": "4c09e0a3507ebaeac0b1b4df7db48969",
+                        "target": "tags-日常",
+                    },
+            
+                    {
+                        "source": "45f984ce42f7aa08d4470fedf49f1953",
+                        "target": "categories-相册",
+                    },
+                    {
+                        "source": "45f984ce42f7aa08d4470fedf49f1953",
+                        "target": "categories-碎碎念",
+                    },
+                    {
+                        "source": "45f984ce42f7aa08d4470fedf49f1953",
+                        "target": "tags-日常",
+                    },
+            
+                    {
                         "source": "3342f14e3e9b1232cc68b1fa2a7d7c0c",
                         "target": "categories-相册",
                     },
@@ -86,15 +141,6 @@
                     },
                     {
                         "source": "3342f14e3e9b1232cc68b1fa2a7d7c0c",
-                        "target": "tags-日常",
-                    },
-            
-                    {
-                        "source": "4c09e0a3507ebaeac0b1b4df7db48969",
-                        "target": "categories-碎碎念",
-                    },
-                    {
-                        "source": "4c09e0a3507ebaeac0b1b4df7db48969",
                         "target": "tags-日常",
                     },
             

@@ -9,12 +9,21 @@
     <managingEditor>Elysa</managingEditor>
     
       <webMaster>Elysa</webMaster>
-    <lastBuildDate>Wed, 13 Aug 2025 17:14:48 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 16:33:56 -0500</lastBuildDate>
     <atom:link href="https://elysa.xyzxy.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>手帐</title>
+      <link>https://elysa.xyzxy.me/categories/%E6%89%8B%E5%B8%90/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <author>Elysa</author>
+      <guid>https://elysa.xyzxy.me/categories/%E6%89%8B%E5%B8%90/</guid>
+      <description></description>
+      
+    </item>
     <item>
       <title>相册</title>
       <link>https://elysa.xyzxy.me/categories/%E7%9B%B8%E5%86%8C/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <author>Elysa</author>
       <guid>https://elysa.xyzxy.me/categories/%E7%9B%B8%E5%86%8C/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>碎碎念</title>
       <link>https://elysa.xyzxy.me/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <author>Elysa</author>
       <guid>https://elysa.xyzxy.me/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
       <description></description>

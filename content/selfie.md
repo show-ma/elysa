@@ -15,7 +15,7 @@ params:
 {{< pin img="https://s2.loli.net/2025/08/12/bX6WNqGAPaLH2dv.png" label="attempt 1">}}
 {{< pin img="https://s2.loli.net/2025/08/12/LND5eqUXG9hIicl.jpg" label="attempt 2">}}
 {{< pin img="https://s2.loli.net/2025/08/13/YAPNIu17Q9Xvlgj.png" label="attempt 3">}}
-{{< pin img="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/4.svg" label="Item 4">}}
+{{< pin img="https://s2.loli.net/2025/08/21/LOjtWPp5eZDSc1q.png" label="attempt 4">}}
 {{< pin img="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/5.svg" label="Item 5">}}
 {{< pin img="https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/6.svg" label="Item 6">}}
 {{< pin "end" >}}
