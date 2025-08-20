@@ -26,3 +26,8 @@
     --bg-dark-more: #000;
     --ac-dark-more: var(--ac-dark);
 }
+
+.feed-item img {
+    aspect-ratio: auto; /* or `unset` */
+    object-fit: contain;
+}
