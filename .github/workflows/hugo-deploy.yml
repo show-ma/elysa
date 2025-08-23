@@ -5,7 +5,7 @@ name: Deploy Hugo Site to Pages
 on:
   push:
     branches:
-      - main  # 如果你的主分支是 master，请修改这里
+      - master  # 如果你的主分支是 master，请修改这里
 
 # 允许这个工作流创建和批准一个由 GITHUB_TOKEN 生成的提交
 permissions:
