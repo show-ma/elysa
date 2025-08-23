@@ -2,7 +2,7 @@
 baseURL = 'https://elysa.xyzxy.me/'
 publishDir = "docs"
 ## Site title
-title = "Elysa's Blog"
+title = "Feather & Trace"
 ## Use hugo-brewm theme
 theme = 'hugo-brewm'
 ## Enable Git information for pages, (e.g. lastMod date information)
@@ -101,7 +101,7 @@ enableRobotsTXT = true
 ## Site parameters
 [params]
     ## Site title
-    title = "Elysa's Blog"
+    title = "Feather & Trace"
     ## Site description
     description = "Elysa的故事与观鸟日记"
     ## Copyright notice
@@ -119,7 +119,7 @@ enableRobotsTXT = true
     ## or BearMode--Minimize clutter for small site; Disable breadcrumbs menu, share button, related posts, colophon and redaction history.
     ZenMode = true
     ## Disable Black background on main-footer
-    DisableFootBar = false
+    DisableFootBar = true
     ## Merge site license, footer menu and coffee stat
     unifiedFooter = true
 

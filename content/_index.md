@@ -3,7 +3,7 @@ cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/fl
 keepAspectRatio: true
 ---
 
-## 记录1
+## Feather and Trace
 
 你好。我是 Elysa。
 这里是我的个人想法与田野笔记的数字存档。

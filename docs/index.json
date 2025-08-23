@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "4c8bc76c0d65b277221cbed8f91d95b2",
+                "title": "命名",
+                "permalink": "https://elysa.xyzxy.me/post/0823/",
+                "type": "post"
+            },{
                 "id": "85d75d532b870566e71924e3b2aa1d1d",
                 "title": "250820｜观鸟手帐：蓝松鸦",
                 "permalink": "https://elysa.xyzxy.me/post/0817/",
@@ -91,6 +96,15 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "4c8bc76c0d65b277221cbed8f91d95b2",
+                        "target": "categories-碎碎念",
+                    },
+                    {
+                        "source": "4c8bc76c0d65b277221cbed8f91d95b2",
+                        "target": "tags-日常",
+                    },
             
                     {
                         "source": "85d75d532b870566e71924e3b2aa1d1d",
