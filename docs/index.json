@@ -1,6 +1,11 @@
 
 {
     "nodes": [{
+                "id": "8e2522cca2e0deaf2af4d1e784d3b504",
+                "title": "250823｜观鸟手帐：加拿大雁",
+                "permalink": "https://elysa.xyzxy.me/post/0824/",
+                "type": "post"
+            },{
                 "id": "4c8bc76c0d65b277221cbed8f91d95b2",
                 "title": "命名",
                 "permalink": "https://elysa.xyzxy.me/post/0823/",
@@ -96,6 +101,19 @@
                         },
     ],
     "links": [
+            
+                    {
+                        "source": "8e2522cca2e0deaf2af4d1e784d3b504",
+                        "target": "categories-碎碎念",
+                    },
+                    {
+                        "source": "8e2522cca2e0deaf2af4d1e784d3b504",
+                        "target": "tags-日常",
+                    },
+                    {
+                        "source": "8e2522cca2e0deaf2af4d1e784d3b504",
+                        "target": "tags-bird",
+                    },
             
                     {
                         "source": "4c8bc76c0d65b277221cbed8f91d95b2",

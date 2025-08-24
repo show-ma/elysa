@@ -51,7 +51,6 @@ User-agent: MistralAI-User/1.0
 User-agent: MyCentralAIScraperBot
 User-agent: NovaAct
 User-agent: OAI-SearchBot
-User-agent: OpenAI
 User-agent: Operator
 User-agent: PanguBot
 User-agent: Panscient
